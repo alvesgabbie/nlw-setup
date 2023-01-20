@@ -12,10 +12,6 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="projeto Habits" src=".github/preview.jpg">
-</p>
-
 <br>
 
 <p align="center">
